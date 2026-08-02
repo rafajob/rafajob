@@ -1,59 +1,55 @@
-# Olá, eu sou Rafael Job 👋
+# Rafael Job
 
-Desenvolvedor Python e Supervisor de Programação, especializado em **automações, integrações de sistemas e modernização de aplicações legadas**.
+Desenvolvedor Python com foco em integrações, automações e sistemas internos.
 
-Minha experiência nasceu da necessidade de resolver problemas reais de operação: integrar ERPs em Microsoft Access com WMS, consumir APIs REST e serviços SOAP, automatizar rotinas repetitivas e criar ferramentas que tornem processos internos mais confiáveis e rastreáveis.
+Atuo como Supervisor de Programação, mas continuo trabalhando diretamente no código e na operação. Boa parte do meu dia envolve conectar sistemas que não foram criados para conversar entre si: ERP em Microsoft Access, WMS, APIs REST, serviços SOAP, bancos de dados e rotinas executadas em servidores Windows.
 
-## O que eu faço
+Gosto especialmente de problemas em que não basta criar uma tela nova. É preciso entender o processo da empresa, manter o sistema atual funcionando e melhorar uma parte de cada vez.
 
-- Integrações entre ERP, WMS, transportadoras e serviços externos
-- APIs e serviços de backend com Python e FastAPI
-- Automação de rotinas administrativas e operacionais
-- Processamento assíncrono com filas, retentativas e reprocessamento
-- Integração com Microsoft Access, SQL Server, SQLite e outros bancos
-- Relatórios, monitoramento, logs e ferramentas internas
-- Análise e modernização gradual de sistemas legados
+## Experiência
 
-## Tecnologias
+Nos últimos projetos, trabalhei com:
 
-**Backend e automação**
+- integração de pedidos e estoque entre ERP e WMS;
+- APIs internas desenvolvidas com Python e FastAPI;
+- consumo e envio de informações por REST e SOAP;
+- filas de arquivos com controle de processamento, erro e reprocessamento;
+- automação de comprovantes de entrega e rotinas administrativas;
+- consultas e integrações com Microsoft Access, SQL Server e SQLite;
+- ferramentas internas de acompanhamento, relatórios e suporte à operação.
 
-`Python` · `FastAPI` · `Django` · `Pydantic` · `SQLAlchemy` · `PyODBC` · `Requests`
+Grande parte desse código pertence aos sistemas internos da empresa e não pode ser publicada. Por isso, os projetos públicos deste perfil usam exemplos, exercícios e aplicações acadêmicas sem dados corporativos.
 
-**Dados e integrações**
+## Tecnologias que utilizo
 
-`SQL` · `Microsoft Access` · `VBA` · `SQL Server` · `SQLite` · `REST` · `SOAP` · `JSON`
+**Principalmente**
 
-**Interfaces e ferramentas**
+`Python` · `FastAPI` · `Pydantic` · `SQLAlchemy` · `PyODBC` · `SQL`
 
-`Streamlit` · `NiceGUI` · `HTML` · `CSS` · `JavaScript` · `PHP` · `Git`
+**Integrações e sistemas legados**
 
-## Experiência prática
+`Microsoft Access` · `VBA` · `REST` · `SOAP` · `JSON` · `SQL Server` · `SQLite`
 
-Entre os problemas que já trabalhei estão:
+**Outras ferramentas**
 
-- Integração de pedidos e estoque entre WMS e ERP legado
-- Filas de processamento com separação por tipo de evento
-- Controle de arquivos em processamento, concluídos e com erro
-- Reprocessamento seguro de integrações após falhas
-- Consumo e envio de pedidos por serviços SOAP
-- Automação de comprovantes de entrega e rotinas administrativas
-- Ferramentas internas para relatórios, acompanhamento e suporte operacional
+`Django` · `Streamlit` · `NiceGUI` · `PHP` · `JavaScript` · `Git`
 
-## Atualmente estudando
+## O que estou estudando
 
-Estou aprofundando meus conhecimentos em:
+Meu foco atual é evoluir a experiência prática para uma base mais sólida de engenharia de software:
 
-- Python avançado e boas práticas de engenharia
-- Testes automatizados, tipagem e qualidade de código
-- FastAPI e Django
-- Arquitetura hexagonal e sistemas desacoplados
-- Observabilidade, filas, idempotência e aplicações resilientes
+- testes automatizados e tipagem;
+- arquitetura e separação de responsabilidades;
+- transações, concorrência e idempotência;
+- segurança e observabilidade;
+- FastAPI e Django em aplicações maiores.
 
-## Objetivo
+## Projetos públicos
 
-Transformar experiência prática com integrações e sistemas legados em soluções modernas, sustentáveis e bem testadas — especialmente para empresas que precisam automatizar processos ou evoluir aplicações antigas sem interromper a operação.
+- [Python Beginner](https://github.com/rafajob/Python-beginner) — registro dos meus primeiros estudos em Python, agora com exemplos corrigidos, testes e integração contínua.
+- [Food in Time](https://github.com/rafajob/SENAC-EAD-PI-2024) — projeto acadêmico em PHP e MySQL, revisado para documentar sua evolução e melhorar persistência e segurança.
+- [Senac PI 2023](https://github.com/rafajob/Senac_PI_2023) — primeira versão do projeto, preservada como histórico de aprendizado.
 
----
+## Interesses profissionais
 
-Aberto a projetos de **automação, integrações, APIs e modernização de sistemas**.
+Tenho interesse em projetos de backend, automação e integração — principalmente quando há processos manuais, planilhas, sistemas legados ou informações repetidas entre diferentes plataformas.
